@@ -1,0 +1,8 @@
+{
+  "name": "newman-pack",
+  "version": "0.0.0",
+  "dependencies": {
+    "npm": "6.2.0",
+    "newman": "4.0.0"
+  }
+}
